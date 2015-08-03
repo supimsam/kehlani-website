@@ -1,0 +1,81 @@
+<!-- notes 
+
+to make it look like the music video section do:
+
+<div class= "home-wrapper">
+	<div class= "new-panal">
+	<div class= "listen">
+		<h1>Listen</h1>
+		<a href="https://soundcloud.com/kehlanimusic">Soundcloud</a>
+	</div>
+</div>
+<div class= "new-panal">
+	<div class= "purchase">
+		<h1>Purchase</h1>
+		<a href="https://itunes.apple.com/us/album/you-should-be-here/id978841647">Itunes</a>
+	</div>
+</div>
+</div>
+
+css:
+
+.home-wrapper {
+
+
+
+}
+
+.new-panal {
+border: 1px solid black;
+width: 500px;
+margin-left: 25%;
+padding: 2em;
+margin-top: 40px;
+text-align: center;
+display: inline-block;
+
+}
+
+.listen h1 {
+	text-decoration: none;
+	color: white;
+	
+	padding: .5em;
+}
+
+.listen a {
+	text-decoration: none;
+	padding: .5em;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border: 1px solid transparent;
+	font-size: 18px;
+	width: 250px;
+	display: inline-block;
+	
+}
+
+.purchase {
+
+}
+
+.purchase h1 {
+	text-decoration: none;
+	color: white;
+	padding: .5em;
+	
+}
+
+.purchase a {
+	text-decoration: none;
+	padding: .5em;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border: 1px solid transparent;
+	font-size: 18px;
+	width: 250px;
+	display: inline-block;
+	
+} -->

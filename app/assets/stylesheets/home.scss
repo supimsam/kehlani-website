@@ -1,0 +1,146 @@
+
+
+body {
+
+
+	background-image: image-url('kehlani-background.png');
+
+}
+
+
+ .header nav {
+	margin-top: 2em;
+	float: right;
+	
+	
+
+}
+
+.header nav a {
+	text-decoration: none;
+	padding: 0.8em;
+	color: white;
+	font-size: 26px;
+	font-weight: 900;
+}
+
+.header nav a:hover {
+	color:#FF00FF;
+}
+
+/*home page*/
+
+
+.container { 
+  width: 80%;
+  margin: 0 auto;
+}
+
+.home-wave {
+
+	margin: 10px; 
+	padding: 0 5px; 
+	border: 1px solid transparent; 
+	background: rgba(162, 104, 227, 0.3); 
+	width: 30%;
+}
+
+.home-listen {
+	
+	margin: 10px; 
+	padding: 0 5px; 
+	border: 1px solid transparent; 
+	background: rgba(162, 104, 227, 0.3); 
+	width: 70%;
+	height: 400px;
+}
+
+.home-listen a {
+	text-decoration: none;
+	color: orange;
+}
+.home-listen h1 {
+	display: inline-block;
+	padding: .5em;
+	color: white;
+}
+
+.boxes {
+  display: -webkit-box;  
+  display: -moz-flexbox;  
+  display: -ms-flexbox; 
+  display: -webkit-flex; 
+  display: -moz-flex;     
+  display: flex;         
+}
+
+
+
+/*#social-bar ul {
+  display: block;
+}
+
+#social-bar li {
+  display: inline-block;
+  padding: 8px;
+  margin-top: 60px; 
+  
+  margin-bottom: 3px;
+  
+}
+
+#facebook {
+  background: url(facebook.png) no-repeat;
+  background-size: contain;
+  height: 26px;
+  width: 26px;
+}
+
+#twitter {
+  background: url(twitter.png) no-repeat;
+  background-size: contain;
+  height: 26px;
+  width: 26px;
+}
+
+#instagram {
+  background: url(instagram.png) no-repeat;
+  background-size: contain;
+  height: 26px;
+  width: 26px;
+}
+
+#tumblr {
+  background: url(tumblr.png) no-repeat;
+  background-size: contain;
+  height: 26px;
+  width: 26px;
+}
+
+
+#youtube {
+  background: url(youtube.png) no-repeat;
+  background-size: contain;
+  height: 26px;
+  width: 26px;
+}
+
+#spotify {
+  background: url(spotify.png) no-repeat;
+  background-size: contain;
+  height: 26px;
+  width: 26px;
+}
+*/
+
+/*home page*/
+
+
+
+
+
+
+
+
+
+
